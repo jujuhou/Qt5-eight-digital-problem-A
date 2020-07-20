@@ -9,13 +9,13 @@
 <div align=center><img src="https://github.com/jujuhou/Qt5-eight-digital-problem-A-/tree/master/pic/1.png" width="400"/></div>
 
 detail界面
-<div align=center><img src="https://github.com/jujuhou/Qt5-eight-digital-problem-A-/blob/master/2.png" width="300"/></div>
+<div align=center><img src="https://github.com/jujuhou/Qt5-eight-digital-problem-A-/tree/master/pic/2.png" width="300"/></div>
 
 搜索树（确实有点丑
-<div align=center><img src="3.png" width="300"/></div>
+<div align=center><img src="https://github.com/jujuhou/Qt5-eight-digital-problem-A-/tree/master/pic/3.png" width="300"/></div>
 
 用法提示
-<div align=center><img src="4.png" width="300"/></div>
+<div align=center><img src="https://github.com/jujuhou/Qt5-eight-digital-problem-A-/tree/master/pic/4.png" width="300"/></div>
 
 
 
